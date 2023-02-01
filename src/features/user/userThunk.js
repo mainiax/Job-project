@@ -1,4 +1,3 @@
-import { Cell } from 'recharts';
 import customFetch, {
 	checkForUnauthorizedResponse,
 } from '../../utils/customAxios';
